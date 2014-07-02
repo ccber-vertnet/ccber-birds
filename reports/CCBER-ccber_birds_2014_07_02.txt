@@ -1,0 +1,73 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 100
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-02 ; Times: 1
+	Date: 2014-06-11 ; Times: 2
+	Date: 2014-06-15 ; Times: 2
+	Date: 2014-06-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Setophaga PP" ; Times: 2
+	Query: "county:"san diego" stateprovince:"california" specificepithet:melodia genus:melospiza" ; Times: 1
+	Query: "county:"ventura" specificepithet:melodia genus:melospiza" ; Times: 1
+	Query: "kennicottii monterey" ; Times: 1
+	Query: "institutioncode:ccber" ; Times: 2
+	Query: "CCBER" ; Times: 1
+	Query: "ccber" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 278 download events in this period)
+Total number of records downloaded: 336 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 189
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-20 ; Times: 2
+	Date: 2014-06-23 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen county:"contra costa" specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "county:"santa barbara" specificepithet:melodia genus:melospiza" ; Times: 1
+	Query: "county:"los angeles" specificepithet:melodia genus:melospiza" ; Times: 1
+	Query: "type:specimen county:"Marin" specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "type:specimen county:"sonoma" specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "county:"san diego" stateprovince:"california" specificepithet:melodia genus:melospiza" ; Times: 1
+	Query: "type:specimen county:"alameda" specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "Icterus cucullatus" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "county:"ventura" specificepithet:melodia genus:melospiza" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 20
+Total number of records retrieved from searches: 282
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 507
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 20
+Total number of records retrieved from searches: 282
+Number of download events that retrieved data from the resource: 19
+Total number of records downloaded: 507
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
