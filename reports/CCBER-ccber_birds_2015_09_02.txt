@@ -1,0 +1,111 @@
+Report for Institution Code CCBER, Resource Birds
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 111
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-12 ; Times: 6
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-20 ; Times: 1
+	Date: 2015-08-24 ; Times: 2
+	Date: 2015-08-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "plain wren" ; Times: 1
+	Query: "Kathleen Whitney" ; Times: 2
+	Query: "Megaceryle (skel OR skeleton)" ; Times: 1
+	Query: "Tim Manolis" ; Times: 2
+	Query: "falco sparverius type:specimen stateprovince:"California" AND (NOT eggs) year >= 1940 year <= 1960" ; Times: 1
+	Query: "type:specimen class:aves recordedby:bagley" ; Times: 1
+	Query: "Kit fox" ; Times: 2
+	Query: "19463" ; Times: 1
+	Query: "sedgwick" ; Times: 1
+	Query: "7754" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1138 download events in this period)
+Total number of records downloaded: 835 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 821
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 32
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-04 ; Times: 2
+	Date: 2015-08-05 ; Times: 14
+	Date: 2015-08-06 ; Times: 3
+	Date: 2015-08-07 ; Times: 8
+	Date: 2015-08-17 ; Times: 1
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-24 ; Times: 2
+	Date: 2015-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Podilymbus podiceps type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Oxyura jamaicensis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Callipepla californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Aix sponsa type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Corvus corax type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Pelecanus occidentalis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Quiscalus mexicanus type:specimen" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: "Colaptes auratus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "Anas platyrhynchos type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Nycticorax nycticorax type:specimen stateprovince:"California"" ; Times: 1
+	Query: "rallus limicola" ; Times: 1
+	Query: "Troglodytidae" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Picoides nuttallii type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Anas cyanoptera type:specimen stateprovince:"California"" ; Times: 1
+	Query: "type:specimen stateprovince:"California" specificepithet:mexicanus genus:carpodacus institutioncode:SDNHM OR UCLA OR LACM OR SBMNH OR WFVZ" ; Times: 1
+	Query: "Plegadis chihi type:specimen stateprovince:"California"" ; Times: 1
+	Query: "class:aves (feather)" ; Times: 1
+	Query: "Contopus sordidulus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Butorides virescens type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Branta canadensis type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Corvus brachyrhynchos type:specimen stateprovince:"California"" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"California" AND (NOT eggs) year >= 1920 year <= 1940" ; Times: 1
+	Query: "Polioptila caerulea" ; Times: 1
+	Query: "Zenaida macroura type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Ardea herodias type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Quiscalus mexicanus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Phalacrocorax auritus type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Aphelocoma californica type:specimen stateprovince:"California"" ; Times: 1
+	Query: "Egretta thula type:specimen stateprovince:"California"" ; Times: 1
+	Query: "falco sparverius type:specimen stateprovince:"California" AND (NOT eggs) year >= 1960 year <= 1980" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 13
+Total number of records retrieved from searches: 111
+Number of download events that retrieved data from the resource: 33
+Total number of records downloaded: 835
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 13
+Total number of records retrieved from searches: 111
+Number of download events that retrieved data from the resource: 33
+Total number of records downloaded: 835
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
