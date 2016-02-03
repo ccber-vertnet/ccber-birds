@@ -1,0 +1,66 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 19
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-06 ; Times: 2
+	Date: 2015-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Synthliboramphus hypoleucus" ; Times: 1
+	Query: "institutioncode:ccber" ; Times: 1
+	Query: "26280" ; Times: 1
+	Query: "23206" ; Times: 1
+	Query: "23207" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 751 download events in this period)
+Total number of records downloaded: 265
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Japan ; Times: 5
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-02 ; Times: 3
+	Date: 2015-11-12 ; Times: 5
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "genus:Melanitta preparations:skeleton" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "genus:Aythya preparations:skeleton" ; Times: 1
+	Query: "genus:Oxyura preparations:skeleton" ; Times: 1
+	Query: "genus:Anas preparations:skeleton" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "genus:Branta preparations:skeleton" ; Times: 1
+	Query: "Salpinctes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope NOT torridus NOT simoni)" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1986" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus AND NOT platycercus)" ; Times: 1
+
+
+End of report.
