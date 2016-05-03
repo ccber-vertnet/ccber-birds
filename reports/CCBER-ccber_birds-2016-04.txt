@@ -1,0 +1,89 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 105
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-08 ; Times: 7
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-04 ; Times: 3
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-09 ; Times: 5
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Howell AND 1911 AND Island" ; Times: 1
+	Query: "type:specimen specificepithet:nigrescens genus:Setophaga" ; Times: 2
+	Query: "vandenberg air force base peregrine" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "class:aves catalognumber:22127" ; Times: 1
+	Query: "Larus AND San Nicolas Island" ; Times: 1
+	Query: "19404" ; Times: 1
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; (Polioptila)" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "bluebirds" ; Times: 1
+	Query: "Alectoris AND Island AND California" ; Times: 1
+	Query: "Howell AND Santa Barbara Island" ; Times: 2
+	Query: "San Nicolas Island AND birds AND 187" ; Times: 1
+	Query: "type:specimen specificepithet:nigrescens genus:Setophaga month &gt;= 1 month &lt;= 4" ; Times: 1
+	Query: "Athene AND &#34;San Nicolas Island&#34;" ; Times: 1
+	Query: "Synthliboramphus AND Nicolas" ; Times: 1
+	Query: "santa barbara county eagle" ; Times: 1
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "Callipepla AND Santa Cruz Island" ; Times: 1
+	Query: "San Nicolas Island AND birds" ; Times: 1
+	Query: "Santa Cruz Island 1920 type:specimen" ; Times: 1
+	Query: "Howard AND Santa Catalina Island" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen (United States OR Cuba OR Bahamas OR Mexico) AND (NOT roseus)" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "Howell AND Santa Cruz Island" ; Times: 1
+	Query: "gallinula chloropus skeleton" ; Times: 1
+	Query: "Alectoris AND San Nicolas Island" ; Times: 1
+	Query: "recordedby:Mock" ; Times: 1
+	Query: "vandenberg air force base" ; Times: 1
+	Query: "Corvus AND San Clemente Island" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1312 download events in this period)
+Total number of records downloaded: 86
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "phoebastria immutabilis" ; Times: 1
+	Query: "phoebastria" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
