@@ -1,0 +1,64 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 151
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-07 ; Times: 1
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 3
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Santa Cruz Island&#34; AND 1941" ; Times: 1
+	Query: "Uria aalge AND Cruz Island" ; Times: 1
+	Query: "Podilymbus podiceps AND Island NOT Canada" ; Times: 1
+	Query: "Falco sparverius AND San Clemente Island" ; Times: 1
+	Query: "monocerata AND Nicolas Island" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND San Miguel Island" ; Times: 1
+	Query: "Passer domesticus institutioncode:CCBER" ; Times: 1
+	Query: "Aythya AND California AND Island" ; Times: 1
+	Query: "Pelecanus AND San Nicolas Island AND California" ; Times: 1
+	Query: "Cerorhinca monocerata AND San Nicolas Island" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Falco sparverius AND Barbara Island" ; Times: 1
+	Query: "Phalacrocorax penicillatus AND Santa Cruz Island" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 327 download events in this period)
+Total number of records downloaded: 195
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "calypte anna" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "vermivora" ; Times: 1
+
+
+End of report.
