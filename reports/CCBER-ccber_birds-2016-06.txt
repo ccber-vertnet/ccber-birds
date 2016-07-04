@@ -1,0 +1,153 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 184
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 88
+	Country: United Kingdom ; Times: 1
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-09 ; Times: 58
+	Date: 2016-06-08 ; Times: 3
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-20 ; Times: 5
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 6
+	Date: 2016-06-15 ; Times: 4
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-02 ; Times: 8
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-04 ; Times: 1
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Arundo donax" ; Times: 1
+	Query: "locality:Rock Creek county:&#34;Mono&#34;" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1908" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1909" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1900" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1901" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1902" ; Times: 1
+	Query: "18771" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1904" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1905" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1906" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1907" ; Times: 1
+	Query: "Accipiter striatus AND Santa Cruz Island" ; Times: 1
+	Query: "Puffinus tenuirostris AND Santa Barbara" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1919" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1918" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1913" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1912" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1911" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1910" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1917" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1916" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1915" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1914" ; Times: 1
+	Query: "hammondii county:&#34;Mono&#34;" ; Times: 1
+	Query: "Pluvialis AND San Nicolas Island" ; Times: 1
+	Query: "Mergus AND Santa Cruz" ; Times: 1
+	Query: "Piranga ludoviciana AND Island" ; Times: 1
+	Query: "Lanius ludovicianus AND &#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "Lanius ludovicianus AND Santa BArbara Island" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1926" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1927" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1924" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1925" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1922" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1923" ; Times: 1
+	Query: "Pluvialis AND Santa Cruz Island" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1928" ; Times: 2
+	Query: "Santa Cruz Island AND Birds AND 1929" ; Times: 1
+	Query: "Psaltriparus minimus AND Santa Cruz Island" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1931" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1930" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1933" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1932" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1935" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1934" ; Times: 1
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1936" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1939" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1938" ; Times: 1
+	Query: "Santa Catalina Island AND 1860" ; Times: 1
+	Query: "Santa Catalina Island AND 1863" ; Times: 2
+	Query: "Santa Catalina Island AND 1862" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1944" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1945" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1946" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1947" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1940" ; Times: 2
+	Query: "Santa Cruz Island AND Birds AND 1941" ; Times: 3
+	Query: "Santa Cruz Island AND Birds AND 1942" ; Times: 2
+	Query: "Santa Cruz Island AND Birds AND 1943" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1948" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1949" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 2
+	Query: "Ptychoramphus aleuticus AND San Miguel Island" ; Times: 1
+	Query: "SANta Catalina Island AND 1855" ; Times: 1
+	Query: "Alectoris AND San Nicolas Island" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND San Nicolas Island" ; Times: 1
+	Query: "Cerorhinca monocerata AND San Nicolas Island" ; Times: 1
+	Query: "Santa Catalina Island AND 1856" ; Times: 1
+	Query: "Santa Catalina Island AND 1857" ; Times: 1
+	Query: "Gavia immer AND Island AND California" ; Times: 1
+	Query: "ccber" ; Times: 1
+	Query: "aimophila ruficeps obscura" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1950" ; Times: 1
+	Query: "Santa Cruz Island AND 1938 NOT Fish NOT ICH" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1894" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1893" ; Times: 1
+	Query: "Tringa AND Santa Cruz Island" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1903" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1921" ; Times: 1
+	Query: "Aratinga acuticaudata 1" ; Times: 4
+	Query: "Santa Cruz Island AND Birds AND 1937" ; Times: 1
+	Query: "Pluvialis AND Santa Barbara Island" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1052 download events in this period)
+Total number of records downloaded: 42
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-08 ; Times: 2
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
