@@ -1,0 +1,77 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 74
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-28 ; Times: 4
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-16 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Setophaga occidentalis" ; Times: 1
+	Query: "Chaetura vauxi" ; Times: 1
+	Query: "18139" ; Times: 1
+	Query: "Thalasseus maximus" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "specificepithet:ater genus:Molothrus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:poecile year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "Setophaga townsendi" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "Actitis macularius" ; Times: 1
+	Query: "class:aves (23884)" ; Times: 1
+	Query: "Cardellina canadensis" ; Times: 1
+	Query: "window collision" ; Times: 4
+	Query: "Elanus leucurus" ; Times: 1
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Glaucidium gnoma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1398 download events in this period)
+Total number of records downloaded: 169
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Nucifraga" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Empidonax hammondii" ; Times: 1
+	Query: "window collision" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+
+
+End of report.
