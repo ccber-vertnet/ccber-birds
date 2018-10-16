@@ -1,0 +1,65 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 41
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves county:&#34;Santa Barbara&#34; year &gt;= 2009 year &lt;= 2018 institutioncode:CCBER" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "window collision birds" ; Times: 1
+	Query: "vntype:specimen specificepithet:alba genus:Tyto family:tytonidae county:&#34;Ventura&#34; stateprovince:&#34;california&#34; institutioncode:CCBER basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1359 download events in this period)
+Total number of records downloaded: 689
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-05 ; Times: 5
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Santa Barbara&#34; (&#34;San Miguel&#34; OR &#34;Santa Rosa&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Barbara&#34;)" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "&#34;island&#34; class:Aves county:&#34;Ventura&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:salton sea" ; Times: 1
+	Query: "Zonotrichia leucophrys gambelii" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+
+
+End of report.
