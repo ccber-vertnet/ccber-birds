@@ -1,0 +1,62 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 23
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-20 ; Times: 8
+	Date: 2018-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pavo cristatus" ; Times: 10
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:saxatalis genus:Aeronautes year &gt;= 1990 year &lt;= 2018" ; Times: 2
+	Query: "country:&#34;United States&#34; Pavo cristatus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 846 download events in this period)
+Total number of records downloaded: 255
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "STERNULA ANTILLARUM" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "NORTHERN FLICKER" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+
+
+End of report.
