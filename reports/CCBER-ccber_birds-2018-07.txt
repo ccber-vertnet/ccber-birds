@@ -1,0 +1,64 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Peru ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-24 ; Times: 4
+	Date: 2018-07-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "parkesi vntype:specimen" ; Times: 1
+	Query: "20167 aves" ; Times: 1
+	Query: "18420 aves" ; Times: 2
+	Query: "2040 genus:Catharus" ; Times: 1
+	Query: "Phoenicopterus chilensis" ; Times: 2
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "22740" ; Times: 1
+	Query: "26423" ; Times: 1
+	Query: "Stercorarius pomarinus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 977 download events in this period)
+Total number of records downloaded: 204
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-30 ; Times: 8
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Geothlypis tolmiei" ; Times: 1
+	Query: "specificepithet:dorsale genus:Toxostoma" ; Times: 1
+	Query: "Haemorhous purpureus" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "specificepithet:fusca genus:Melozone" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila" ; Times: 1
+	Query: "Carduelis pinus" ; Times: 1
+
+
+End of report.
