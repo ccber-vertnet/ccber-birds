@@ -1,0 +1,69 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 13
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Netherlands ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:melospiza family:emberizidae stateprovince:&#34;california&#34; sex:male institutioncode:CCBER hassex:1 distance(location,geopoint(34.207673013477304,-120.36116856162897))&lt;100000" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "genus:Turdus class:Aves distance(location,geopoint(35.34024864420967,-118.17254500528338))&lt;100000" ; Times: 1
+	Query: "specificepithet:alpestris genus:eremophila county:&#34;Sonoma&#34;" ; Times: 3
+	Query: "catalognumber:6882" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1169 download events in this period)
+Total number of records downloaded: 460
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:melospiza family:emberizidae stateprovince:&#34;california&#34; hassex:1 distance(location,geopoint(34.207673013477304,-120.36116856162897))&lt;100000" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
