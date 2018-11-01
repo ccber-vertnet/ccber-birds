@@ -1,0 +1,83 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 488
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 37
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-21 ; Times: 32
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-27 ; Times: 2
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:acuticaudata genus:aratinga" ; Times: 1
+	Query: "ave mimidae" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; recordedby:Brian Arnold year &gt;= 1975 year &lt;= 2017" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:&#34;Arnold&#34; year &gt;= 1975 year &lt;= 2017" ; Times: 2
+	Query: "Brian W. Arnold" ; Times: 2
+	Query: "18237" ; Times: 1
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017" ; Times: 1
+	Query: "county:&#34;Monterey&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017" ; Times: 1
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017" ; Times: 1
+	Query: "pinus jeffreyi" ; Times: 2
+	Query: "county:&#34;San Benito&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017" ; Times: 1
+	Query: "class:aves recordedby:Brewer" ; Times: 1
+	Query: "&#34;road&#34; stateprovince:&#34;California&#34; recordedby:Arnold year &gt;= 1978 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Brian Arnold" ; Times: 21
+	Query: "brown-headed cowbird california year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; recordedby:Brian W Arnold year &gt;= 1975 year &lt;= 2017" ; Times: 1
+	Query: "country:&#34;United States&#34; recordedby:Brian Arnold year &gt;= 1976 year &lt;= 2017" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1300 download events in this period)
+Total number of records downloaded: 103
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-30 ; Times: 2
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus: Hirundo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "Spinus tristis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "brown-headed cowbird" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+
+
+End of report.
