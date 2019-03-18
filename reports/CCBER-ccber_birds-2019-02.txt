@@ -1,0 +1,57 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 65
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-07 ; Times: 2
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Strix occidentalis o" ; Times: 1
+	Query: "genus:Taeniopygia haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:Agelaius county:&#34;Santa Barbara&#34;" ; Times: 2
+	Query: "San Miguel Island locality:San Miguel Island institutioncode:CCBER" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 2
+	Query: "genus:Taeniopygia basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "nestling period" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1227 download events in this period)
+Total number of records downloaded: 95
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:polyglottos genus:mimus (skeleton)" ; Times: 1
+	Query: "genus:Taeniopygia basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:polyglottos genus:mimus" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:migratorius genus:turdus" ; Times: 1
+	Query: "(Aphelocoma) year &gt;= 1985 year &lt;= 1990" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+
+
+End of report.
