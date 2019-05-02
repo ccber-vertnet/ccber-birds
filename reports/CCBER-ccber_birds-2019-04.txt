@@ -1,0 +1,74 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 64
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 6
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 6
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cyanea genus:Passerina stateprovince:&#34;California&#34; year &gt;= 1960" ; Times: 1
+	Query: "class:Aves catalognumber:14155 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "specificepithet:lecontei genus:Toxostoma year &gt;= 1970 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:13379 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "wing chord vntype:specimen specificepithet:aedon genus:troglodytes" ; Times: 1
+	Query: "ccber 1593" ; Times: 2
+	Query: "county:&#34;san luis obispo&#34; year &gt;= 1992 year &lt;= 1992" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Pheucticus stateprovince:&#34;California&#34; year &gt;= 1945" ; Times: 1
+	Query: "class:Aves catalognumber:4954 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Pheucticus stateprovince:&#34;California&#34; sex:female year &gt;= 1945" ; Times: 1
+	Query: "county:&#34;san luis obispo&#34; (creek) year &gt;= 1992 year &lt;= 1992" ; Times: 1
+	Query: "class:Aves catalognumber:17760 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Rosa Island AND Haematopus bachmani" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 2
+	Query: "ccber 2574" ; Times: 2
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:4557 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1263 download events in this period)
+Total number of records downloaded: 69
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "california ground squirrel" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+
+
+End of report.
