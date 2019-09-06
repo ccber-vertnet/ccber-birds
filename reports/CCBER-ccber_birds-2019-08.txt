@@ -1,0 +1,89 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 248
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 59
+	Country: Denmark ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 7
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-16 ; Times: 5
+	Date: 2019-08-15 ; Times: 19
+	Date: 2019-08-14 ; Times: 7
+	Date: 2019-08-05 ; Times: 7
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-07 ; Times: 2
+	Date: 2019-08-08 ; Times: 10
+	Date: 2019-08-09 ; Times: 9
+	Date: 2019-08-22 ; Times: 3
+	Date: 2019-08-30 ; Times: 4
+	Date: 2019-08-20 ; Times: 3
+	Date: 2019-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Calidris canutus" ; Times: 2
+	Query: "Sternula antillarum" ; Times: 8
+	Query: "family:Alcidae locality:Guadalupe AND (NOT Ptychoramphus NOT Cerorhinca)" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Spinus pinus and Island NOT Canada NOT Alaska NOT Long" ; Times: 1
+	Query: "Spinus pinus and Island" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 16
+	Query: "genus:Podiceps locality:Salton county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Tyto alba haslength:1" ; Times: 1
+	Query: "Tringa incana" ; Times: 1
+	Query: "Patagioenas fasciata" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius" ; Times: 4
+	Query: "specificepithet:fasciata genus:Chamaea year&gt;1980 year&lt;2020" ; Times: 1
+	Query: "Aeronautes saxatalis AND Island" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe" ; Times: 2
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Spinus pinus and Island NOT Canada NOT Alaska NOT Long NOT Rhode NOT MIchigan" ; Times: 1
+	Query: "Sternula antillarum browni" ; Times: 7
+	Query: "Strix occidentalis" ; Times: 13
+	Query: "Phoenicopterus chilensis" ; Times: 1
+	Query: "Aeronautes saxatalis AND Cruz Island" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 2
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Spinus pinus and Island NOT Canada" ; Times: 1
+	Query: "Chroicocephalus philadelphia" ; Times: 1
+	Query: "genus:Podiceps county:&#34;Riverside&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1034 download events in this period)
+Total number of records downloaded: 38
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "(passer domesticus) year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "genus:Centrocercus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "county:&#34;santa barbara&#34; recordedby:stevens" ; Times: 1
+
+
+End of report.
