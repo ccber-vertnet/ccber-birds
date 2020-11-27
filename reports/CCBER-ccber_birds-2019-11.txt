@@ -1,0 +1,78 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 157
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-08 ; Times: 4
+	Date: 2019-11-09 ; Times: 4
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-16 ; Times: 4
+	Date: 2019-11-02 ; Times: 3
+	Date: 2019-11-03 ; Times: 2
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Power AND Cruz Island" ; Times: 1
+	Query: "trochilidae spread wing" ; Times: 1
+	Query: "Sternula antillarum browni 1992" ; Times: 3
+	Query: "Falco sparverius AND Santa Barbara Island" ; Times: 1
+	Query: "Spizella atrogularis" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "genus:Rallus county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; recordedby:Higginson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Psaltriparus minimus Ventura County" ; Times: 1
+	Query: "class:Aves country:&#34;United States&#34; recordedby:Higginson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sternula antillarum browni 2015" ; Times: 3
+	Query: "Falco sparverius AND Guadalupe" ; Times: 1
+	Query: "institutioncode:ccber OR chas genus:bubo" ; Times: 1
+	Query: "Power AND Barbara Island" ; Times: 1
+	Query: "vntype:specimen genus:Passerculus stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "Sternula antillarum browni 2016" ; Times: 3
+	Query: "Sternula antillarum browni 2013" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1367 download events in this period)
+Total number of records downloaded: 197
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vireo vicinior" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;California&#34; county: &#34;San Francisco&#34; OR &#34;San Mateo&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Clara&#34; OR &#34;Alameda&#34; OR &#34;Contra Costa&#34; OR &#34;Solano&#34; OR &#34;Napa&#34; OR &#34;Sonoma&#34; OR &#34;Marin&#34;" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Falco sparverius AND Santa Barbara Island" ; Times: 1
+	Query: "wing specificepithet:vociferus genus:Charadrius" ; Times: 1
+
+
+End of report.
