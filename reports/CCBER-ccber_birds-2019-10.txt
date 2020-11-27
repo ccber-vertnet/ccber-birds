@@ -1,0 +1,159 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 125
+Number of records retrieved in searches: 469
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 83
+	Country: Belgium ; Times: 20
+	Country: Unknown ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 4
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-18 ; Times: 2
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-24 ; Times: 15
+	Date: 2019-10-22 ; Times: 5
+	Date: 2019-10-12 ; Times: 5
+	Date: 2019-10-05 ; Times: 4
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-11 ; Times: 12
+	Date: 2019-10-16 ; Times: 2
+	Date: 2019-10-04 ; Times: 12
+	Date: 2019-10-07 ; Times: 20
+	Date: 2019-10-06 ; Times: 9
+	Date: 2019-10-23 ; Times: 7
+	Date: 2019-10-19 ; Times: 4
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-15 ; Times: 5
+	Date: 2019-10-10 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus AND Isla NOT Ecuador NOT Bolivia" ; Times: 1
+	Query: "Larus californicus AND Nicolas Island" ; Times: 1
+	Query: "Baeolophus inornatus California Ventura" ; Times: 1
+	Query: "locality:tangair rd" ; Times: 2
+	Query: "locality:vandenberg recordedby:christopher year &gt;= 1995 year &lt;= 1995" ; Times: 1
+	Query: "caerulescens Setophaga" ; Times: 5
+	Query: "pusilla Cardellina" ; Times: 1
+	Query: "Mimus AND Isla NOT Ecuador NOT Bolivia NOT Venezuela" ; Times: 1
+	Query: "Podilymbus podiceps AND Nicolas Island" ; Times: 1
+	Query: "Callipepla californica AND Catalina Island NOT Harrison NOT Osburn NOT Wright NOT ROwley" ; Times: 1
+	Query: "Anas cyanoptera AND Nicolas Island" ; Times: 1
+	Query: "Alectoris chukar AND Island" ; Times: 1
+	Query: "Baeolophus inornatus California San Luis Obispo County" ; Times: 1
+	Query: "Oxyura jamaicensis AND Isla" ; Times: 1
+	Query: "Fulmarus glacialis AND Guadalupe" ; Times: 1
+	Query: "Corvus corax AND Clemente Island" ; Times: 2
+	Query: "Callipepla californica AND Cruz Island" ; Times: 2
+	Query: "Mimus AND Catalina NOT Arizona" ; Times: 1
+	Query: "Passerculus sandwichensis AND &#34;Nicolas Island&#34;" ; Times: 1
+	Query: "Puffinus griseus AND Nicolas" ; Times: 1
+	Query: "Callipepla californica AND Catalina Island NOT Osburn NOT Wright NOT ROwley" ; Times: 1
+	Query: "Mergus serrator AND Barbara" ; Times: 1
+	Query: "Callipepla californica AND Catalina Island NOT Wright" ; Times: 1
+	Query: "Podiceps nigricollis AND Barbara Island" ; Times: 2
+	Query: "Larus californicus AND Nicolas" ; Times: 1
+	Query: "Corvus corax AND Clemente" ; Times: 1
+	Query: "Callipepla californica AND Santa Cruz Island" ; Times: 1
+	Query: "vntype:specimen genus:Passerculus institutioncode:CCBER" ; Times: 1
+	Query: "Callipepla AND Cruz Island" ; Times: 1
+	Query: "Sternula antillarum browni 2016" ; Times: 1
+	Query: "Anas acuta AND Nicolas" ; Times: 1
+	Query: "Sternula antillarum browni 2013" ; Times: 1
+	Query: "Phalaenoptilus nuttallii AND Catalina Island" ; Times: 2
+	Query: "albolarvatus Picoides" ; Times: 4
+	Query: "Passerculus sandwichensis AND Nicolas Island" ; Times: 2
+	Query: "Gavia immer AND Nicolas Island" ; Times: 2
+	Query: "Sternula antillarum browni 1992" ; Times: 1
+	Query: "Mimus AND Catalina NOT Arizona NOT Colombia NOT Wiltshire NOT Sefton" ; Times: 1
+	Query: "Mimus AND Catalina NOT Arizona NOT Colombia" ; Times: 1
+	Query: "Spinus tristis mappable:0" ; Times: 20
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "Callipepla californica AND Catalina Island" ; Times: 2
+	Query: "Mimus AND Isla NOT Ecuador" ; Times: 1
+	Query: "Sternula antillarum browni 2015" ; Times: 1
+	Query: "Fulmarus glacialis AND Barbara Island" ; Times: 1
+	Query: "Alectoris chukar AND Nicolas Island" ; Times: 4
+	Query: "Callipepla californica AND Catalina Island NOT Osburn NOT Wright" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "Aechmophorus occidentalis AND Nicolas Island" ; Times: 2
+	Query: "Carduelis psaltria AND Barbara Island" ; Times: 1
+	Query: "Corvus AND Clemente" ; Times: 1
+	Query: "Mergus serrator AND Cruz" ; Times: 1
+	Query: "locality:tangair" ; Times: 1
+	Query: "specificepithet:iliaca genus:passerella county:&#34;inyo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Aeronautes AND &#34;Cruz Island&#34;" ; Times: 1
+	Query: "Mimus AND Catalina NOT Arizona NOT Colombia NOT Wiltshire" ; Times: 3
+	Query: "Anas acuta AND Nicolas Island" ; Times: 1
+	Query: "Mimus AND Catalina" ; Times: 1
+	Query: "Baeolophus inornatus California Ventura County" ; Times: 2
+	Query: "Phalacrocorax pelagicus AND Barbara Island" ; Times: 1
+	Query: "recordedby:morgan ball" ; Times: 2
+	Query: "Carduelis psaltria AND Cruz Island" ; Times: 3
+	Query: "Corvus AND Cruz Island" ; Times: 1
+	Query: "Callipepla californica AND Cruz Island NOT Miller NOT Mailliard" ; Times: 1
+	Query: "Passerculus sandwichensis AND Cruz Island" ; Times: 1
+	Query: "Callipepla californica AND Catalina Island NOT Grinnell NOT Harrison NOT Osburn NOT Wright NOT ROwley" ; Times: 1
+	Query: "Fulmarus glacialis AND Miguel Island" ; Times: 1
+	Query: "Phalaenoptilus nuttallii AND Island" ; Times: 1
+	Query: "Baeolophus inornatus California sonoma county" ; Times: 1
+	Query: "locality:vandenberg recordedby:christopher" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1308 download events in this period)
+Total number of records downloaded: 430
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 14
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Geothlypis tolmiei" ; Times: 2
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Setophaga occidentalis" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Setophaga townsendi" ; Times: 2
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "vntype:specimen genus:Passerculus institutioncode:CCBER" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Oreothlypis ruficapilla" ; Times: 1
+
+
+End of report.
