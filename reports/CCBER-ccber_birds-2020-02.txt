@@ -1,0 +1,69 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 267
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "year &gt;= 1997 year &lt;= 1998 institutioncode:CCBER" ; Times: 1
+	Query: "passer domesticus vntype:specimen institutioncode:CCBER" ; Times: 1
+	Query: "bluebirds" ; Times: 1
+	Query: "specificepithet:sasin genus:selasphorus county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "passer domesticus institutioncode:CCBER" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:CCBER" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:CCBER" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "specificepithet:ater genus:Molothrus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:CCBER" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1023 download events in this period)
+Total number of records downloaded: 240
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "year &gt;= 1997 year &lt;= 1998 institutioncode:CCBER" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Tyto alba" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Monachus" ; Times: 1
+
+
+End of report.
