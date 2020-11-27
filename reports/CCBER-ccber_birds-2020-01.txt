@@ -1,0 +1,82 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 135
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 2
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-11 ; Times: 5
+	Date: 2020-01-12 ; Times: 6
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Garner county:&#34;Riverside&#34; year &gt;= 1909 year &lt;= 2008" ; Times: 1
+	Query: "Accipiter striatus AND Cruz Island" ; Times: 1
+	Query: "Myiarchus cinerascens skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter institutioncode:CCBER" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1939" ; Times: 1
+	Query: "Thryomanes AND Catalina Island" ; Times: 1
+	Query: "kit fox" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1907" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1989" ; Times: 1
+	Query: "Thryomanes AND Catalina Island AND 1953" ; Times: 1
+	Query: "recordedby:lawrence hunt" ; Times: 4
+	Query: "Thryomanes AND Catalina Island AND 1989" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "locality:Garner county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Thryomanes AND Catalina Island AND 1990" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1914" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1988" ; Times: 1
+	Query: "Thryomanes AND Cruz Island AND 1912" ; Times: 1
+	Query: "Thryomanes AND Cruz Island" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter preparations:skin year &gt;= 1980 institutioncode:CCBER" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1584 download events in this period)
+Total number of records downloaded: 455
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 7
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sitta haslength:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta haslength:1" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "specificepithet:villosus genus:Picoides haslength:1" ; Times: 8
+
+
+End of report.
