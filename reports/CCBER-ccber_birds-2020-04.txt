@@ -1,0 +1,115 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 247
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 57
+	Country: Germany ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-12 ; Times: 4
+	Date: 2020-04-03 ; Times: 9
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 3
+	Date: 2020-04-14 ; Times: 7
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-07 ; Times: 24
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-06 ; Times: 4
+	Date: 2020-04-21 ; Times: 16
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "class:Aves (30985)" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 6
+	Query: "Vireo huttoni 1904" ; Times: 1
+	Query: "locality:rabbit county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "skeleton immature genus:aechmophorus family:podicipedidae" ; Times: 1
+	Query: "Cygnus olor" ; Times: 10
+	Query: "Aeronautes saxatalis" ; Times: 3
+	Query: "coturnix chinensis" ; Times: 1
+	Query: "skeleton juvenile family:podicipedidae" ; Times: 3
+	Query: "&#34;WING CHORD&#34; specificepithet:macroura genus:Zenaida continent:North America lifestage:Adult haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:immutabilis family:Diomedeidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "skeleton immature family:podicipedidae" ; Times: 2
+	Query: "Higginson California" ; Times: 1
+	Query: "&#34;Wing Chord&#34; specificepithet:acuta genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1" ; Times: 2
+	Query: "skeleton family:podicipedidae lifestage:juvenile" ; Times: 1
+	Query: "Vireo huttoni oberholseri" ; Times: 1
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "Sternula albifrons" ; Times: 1
+	Query: "specificepithet:clarkii genus:aechmophorus (skeleton)" ; Times: 1
+	Query: "pavo cristatus" ; Times: 3
+	Query: "Butorides striata" ; Times: 9
+	Query: "26886" ; Times: 2
+	Query: "Alectoris barbara" ; Times: 6
+	Query: "29346" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 2
+	Query: "&#34;WING CHORD&#34; specificepithet:sponsa genus:Aix continent:North America lifestage:Adult haslifestage:1 hassex:1" ; Times: 2
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "WING CHORD specificepithet:pubescens genus:Picoides continent:North America lifestage:ADULT haslifestage:1 hassex:1" ; Times: 1
+	Query: "&#34;Wing Chord&#34; specificepithet:calendula genus:Regulus continent:North America lifestage:ADULT haslifestage:1 hassex:1" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "&#34;Wing Chord&#34; specificepithet:discors genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1" ; Times: 1
+	Query: "Taeniopygia guttata" ; Times: 8
+	Query: "county:&#34;Santa Barbara&#34; stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1171 download events in this period)
+Total number of records downloaded: 205
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-12 ; Times: 3
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "&#34;WING CHORD&#34; specificepithet:macroura genus:Zenaida continent:North America lifestage:Adult haslifestage:1 hassex:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "WING CHORD specificepithet:pubescens genus:Picoides continent:North America lifestage:ADULT haslifestage:1 hassex:1" ; Times: 1
+	Query: "&#34;Wing Chord&#34; specificepithet:calendula genus:Regulus continent:North America lifestage:ADULT haslifestage:1 hassex:1" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "&#34;Wing Chord&#34; specificepithet:acuta genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1" ; Times: 1
+	Query: "&#34;Wing Chord&#34; specificepithet:discors genus:Anas continent:North America lifestage:ADULT haslifestage:1 hassex:1" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "&#34;WING CHORD&#34; specificepithet:sponsa genus:Aix continent:North America lifestage:Adult haslifestage:1 hassex:1" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+
+
+End of report.
