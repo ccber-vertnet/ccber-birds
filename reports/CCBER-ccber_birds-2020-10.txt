@@ -1,0 +1,90 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 87
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: United Kingdom ; Times: 3
+	Country: Austria ; Times: 2
+	Country: Unknown ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 6
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-13 ; Times: 20
+	Date: 2020-10-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Cygnus olor" ; Times: 1
+	Query: "wing chord specificepithet:pubescens genus:Picoides continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:crecca genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "kit fox" ; Times: 2
+	Query: "wing chord specificepithet:acuta genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "genus:Pipilo class:Aves year &gt;= 1981 year &lt;= 1988" ; Times: 2
+	Query: "22692" ; Times: 1
+	Query: "wing chord specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:sponsa genus:Aix continent:North America haslifestage:1 hassex:1" ; Times: 2
+	Query: "wing chord specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:discors genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 16
+	Query: "scientificname:Streptopelia decaocto" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1521 download events in this period)
+Total number of records downloaded: 138
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-23 ; Times: 2
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 13
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "wing chord specificepithet:crecca genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1" ; Times: 2
+	Query: "wing chord specificepithet:platyrhynchos genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "wing chord specificepithet:calendula genus:Regulus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "family:Accipitridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Odontophoridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Anatidae class:Aves preparations:Egg" ; Times: 1
+	Query: "wing chord specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:sparverius genus:Falco continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:pubescens genus:Picoides continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "wing chord specificepithet:acuta genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:melodia genus:Melospiza continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:sponsa genus:Aix continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "skin vntype:specimen genus:Nucifraga columbiana country:&#34;United States&#34;" ; Times: 1
+	Query: "wing chord specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "wing chord specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1" ; Times: 1
+	Query: "wing chord specificepithet:discors genus:Anas continent:North America haslifestage:1 hassex:1" ; Times: 1
+
+
+End of report.
