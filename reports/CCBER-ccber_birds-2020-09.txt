@@ -1,0 +1,94 @@
+Report for Institution Code CCBER, Resource ccber_birds
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 20
+Number of records retrieved in searches: 421
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-23 ; Times: 4
+	Date: 2020-09-17 ; Times: 5
+	Date: 2020-09-10 ; Times: 3
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-09 ; Times: 4
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:kittle" ; Times: 1
+	Query: "specificepithet:stelleri genus:cyanocitta county:&#34;santa barbara&#34;" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe AND (NOT Ptychoramphus)" ; Times: 3
+	Query: "kit fox" ; Times: 1
+	Query: "genus:Passerculus stateprovince:&#34;California&#34; institutioncode:CCBER" ; Times: 1
+	Query: "family:Icteridae stateprovince:&#34;California&#34; year &gt;= 1985 year &lt;= 1987" ; Times: 4
+	Query: "scientificname:Streptopelia decaocto" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 976 download events in this period)
+Total number of records downloaded: 650
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 2
+	Country: Netherlands ; Times: 5
+	Country: Australia ; Times: 9
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-13 ; Times: 5
+	Date: 2020-09-28 ; Times: 3
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 1
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Numididae" ; Times: 1
+	Query: "genus:Picoides specificepithet:.*" ; Times: 2
+	Query: "Gambusia" ; Times: 1
+	Query: "(Synthliboramphus)" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "order:Anseriformes class:Aves preparations:Egg" ; Times: 1
+	Query: "preparations:nest" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "order:Galliformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Anseriformes class:aves preparations:Egg" ; Times: 2
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "order:Accipitriformes class:Aves preparations:Egg" ; Times: 1
+	Query: "order:Galliformes class:aves preparations:Egg" ; Times: 2
+	Query: "genus:Calypte" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "Haematopus palliatus OR Haematopus bachmani" ; Times: 1
+	Query: "specificepithet:thalassina genus:Tachycineta month &gt;= 8 month &lt;= 9 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "order:Accipitriformes class:aves preparations:Egg" ; Times: 2
+
+
+End of report.
